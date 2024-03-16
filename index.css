@@ -1,0 +1,29 @@
+#box {
+    width: 1300px;
+    height: 40px;
+    background-color: grey;
+    font-size: 25px;
+
+    
+    margin-top: 0px ;
+
+}
+
+
+
+.box {
+    height: 200px;
+    width: 400px;
+
+    border-radius: 20px;
+    margin-right: 10px;
+    background-color: red;
+}
+
+.container {
+    display: flex;
+    
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
